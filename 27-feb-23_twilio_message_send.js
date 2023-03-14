@@ -4,10 +4,6 @@
  * Address :- Bangalore, Karnataka
  **/
 
-//TWILIO PROJECT
-
-
-
 // npm install twilio
 const twilio = require('twilio');
 
