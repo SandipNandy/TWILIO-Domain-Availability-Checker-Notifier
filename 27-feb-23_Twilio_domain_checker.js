@@ -65,3 +65,5 @@ async function checkDomainAvailability(domain, to_number) {
 }
 
 checkDomainAvailability(domain, whatsappNumber);
+
+// twilio domain checker
