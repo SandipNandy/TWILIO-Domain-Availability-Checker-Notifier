@@ -68,3 +68,5 @@ def check_domain_availability(check_domain, to_whatsapp_number):
         print(f"{time.strftime('%Y-%m-%d %H:%M')} - Domain {check_domain} is not available for purchase.")
 
 check_domain_availability(args.domain, to_whatsapp_number)
+
+//Twilio domain checker
