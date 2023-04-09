@@ -2,7 +2,7 @@
 ##Author :- Sandip Nandi                      #
 ##Creation Date :- 27- feb-23                 #
 ##Address :- Bengalore, Karanataka            #
-##Domain Availability Checker Notifier        #
+## Domain Availability Checker Notifier       #
 ###############################################
 
 
