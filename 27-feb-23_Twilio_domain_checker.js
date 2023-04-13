@@ -2,7 +2,7 @@
  * Author :- Sandip Nandi
  * Creation Date :- 27-Feb-23
  * Address :- Bangalore, Karnataka   
- *#* Twilio Domain Availability Checker Notifier
+ *#* Twilio Domain Availability Checker Notifier.
  **/
 
 // npm install twilio argparse axios
@@ -66,4 +66,4 @@ async function checkDomainAvailability(domain, to_number) {
 
 checkDomainAvailability(domain, whatsappNumber);
 
-// twilio domain checker
+// twilio domain checker.
