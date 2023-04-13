@@ -69,4 +69,4 @@ def check_domain_availability(check_domain, to_whatsapp_number):
 
 check_domain_availability(args.domain, to_whatsapp_number)
 
-//Twilio domain checker
+//Twilio domain checker.
