@@ -2,7 +2,7 @@
  * Author :- Sandip Nandi
  * Creation Date :- 27-Feb-23
  * Address :- Bangalore, Karnataka
- *  Availability Checker Notifier
+ *  Availability Checker Notifier.
  **/
 
 // npm install twilio
@@ -19,4 +19,4 @@ client.messages.create({
 }).then(msg => console.log(msg.sid));
 
 
-//   twilio message send
+//   twilio message send.
