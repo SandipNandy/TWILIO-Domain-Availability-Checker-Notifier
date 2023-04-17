@@ -1,7 +1,7 @@
 ###############################################
-##Author :- Sandip Nandi                      #
-##Creation Date :- 27- feb-23                 #
-##Address :- Bengalore, Karanataka            #
+# Author :- Sandip Nandi                      #
+# Creation Date :- 27- feb-23                 #
+# Address :- Bengalore, Karanataka            #
 # Twilio Domain Availability Checker Notifier #
 ###############################################
 
