@@ -3,7 +3,6 @@
  * Creation Date :- 27-Feb-23
  * Address :- Bangalore, Karnataka
  * Availability Checker Notifier.
- *
  **/
 // npm install twilio
 const twilio = require('twilio');
