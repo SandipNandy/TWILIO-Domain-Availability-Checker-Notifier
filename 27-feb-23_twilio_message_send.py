@@ -3,7 +3,6 @@
 # Creation Date :- 27- feb-23                 #
 # Address :- Bengalore, Karanataka            #
 # Domain Availability Checker Notifier        #
-#                                             #
 ###############################################
 from twilio.rest import Client 
 account_sid = 'ACc40eb1368aca104f3f07a3ddb223dd' 
