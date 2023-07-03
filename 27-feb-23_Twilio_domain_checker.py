@@ -5,10 +5,13 @@
 # Twilio Domain Availability Checker Notifier #
 ###############################################
 
+
 import argparse
 import time
+
 import requests
 import schedule
+
 from twilio.rest import Client 
 
 # set up cli domain argument
