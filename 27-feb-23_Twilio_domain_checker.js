@@ -29,7 +29,6 @@ const headers = {
   Authorization: `sso-key ${apiKey}:${apiSecret}`,
   accept: 'application/json',
 };
-
 function sendMessage(domain, number) {
   const domain_purchase_url = `https://de.godaddy.com/domainsearch/find?domainToCheck=${domain}`;
   client.messages.create({
