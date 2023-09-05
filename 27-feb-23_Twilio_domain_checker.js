@@ -11,7 +11,6 @@ const twilio = require('twilio');
 const axios = require('axios').default;
 const { ArgumentParser } = require('argparse');
 const parser = new ArgumentParser({ description: 'Check domain for availability' });
-
 parser.addArgument('domain', {
   type: 'string',
   help: 'Domain name to be checked',
