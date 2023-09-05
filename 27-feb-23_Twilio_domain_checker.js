@@ -16,7 +16,6 @@ parser.addArgument('domain', {
   help: 'Domain name to be checked',
   
 });
-
 const { domain } = parser.parseArgs();
 
 // twilio credentials
