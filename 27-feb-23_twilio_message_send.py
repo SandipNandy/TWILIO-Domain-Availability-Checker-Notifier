@@ -14,6 +14,5 @@ message = client.messages.create(
                               body='Your Twilio code is 13843',  
                               to='whatsapp:+91XXXXXXXX' 
                           ) 
- 
 print(message.sid);
 //twilio message send.
