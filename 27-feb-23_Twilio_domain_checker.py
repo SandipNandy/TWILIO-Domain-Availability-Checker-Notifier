@@ -12,6 +12,7 @@ import time
 import requests
 
 import schedule
+
 from twilio.rest import Client 
 # set up cli domain argument
 parser = argparse.ArgumentParser(description="Check domain for availability")
