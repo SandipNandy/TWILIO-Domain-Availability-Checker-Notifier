@@ -24,6 +24,7 @@ req_headers = {
     "accept": "application/json"
 }
 
+
 # twilio API credentials
 
 account_sid = 'ACc40eb1c0368aca104f3f07a3ddb223dd' 
