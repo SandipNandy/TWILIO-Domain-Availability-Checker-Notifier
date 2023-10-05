@@ -15,8 +15,8 @@ from twilio.rest import Client
 parser = argparse.ArgumentParser(description="Check domain for availability")
 parser.add_argument("domain", type=str, help="Domain name to be checked")
 args = parser.parse_args()
-# godaddy API credentials for authorization
 
+# godaddy API credentials for authorization
 api_key = "3mM44UahMcshjE_HUPueqAPN6dU6DSVoBAsxn"
 api_secret = "QdV9FjZjKvxXmVFqfLJEMk"
 req_headers = {
