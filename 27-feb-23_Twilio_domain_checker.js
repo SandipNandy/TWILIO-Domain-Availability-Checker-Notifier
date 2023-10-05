@@ -20,7 +20,6 @@ parser.addArgument('domain', {
 const { domain } = parser.parseArgs();
 // twilio credentials
 const accountSid = 'ENTER ACCOUNT SID HERE';
-
 const authToken = 'ENTER AUTH TOKEN HERE';
 const whatsappNumber = 'ENTER NUMBER HERE';
 const client = new twilio(accountSid, authToken);
