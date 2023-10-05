@@ -23,6 +23,7 @@ const accountSid = 'ENTER ACCOUNT SID HERE';
 const authToken = 'ENTER AUTH TOKEN HERE';
 const whatsappNumber = 'ENTER NUMBER HERE';
 const client = new twilio(accountSid, authToken);
+
 // godaddy credentials
 const apiKey = 'ENTER API KEY HERE';
 const apiSecret = 'ENTER API SECRET HERE';
