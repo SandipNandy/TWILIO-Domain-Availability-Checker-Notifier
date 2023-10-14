@@ -6,6 +6,7 @@
 # Twilio Domain Availability Checker Notifier #
 ###############################################
 import argparse
+
 import time
 import requests
 import schedule
