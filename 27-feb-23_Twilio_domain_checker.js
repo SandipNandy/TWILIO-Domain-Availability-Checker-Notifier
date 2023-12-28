@@ -36,6 +36,7 @@ const client = new twilio(accountSid, authToken);
 
 // godaddy credentials
 const apiKey = 'ENTER API KEY HERE';
+
 const apiSecret = 'ENTER API SECRET HERE';
 const headers = {
   Authorization: `sso-key ${apiKey}:${apiSecret}`,
