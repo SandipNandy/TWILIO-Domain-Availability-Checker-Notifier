@@ -41,6 +41,7 @@ const apiSecret = 'ENTER API SECRET HERE';
 
 const headers = {
   Authorization: `sso-key ${apiKey}:${apiSecret}`,
+  
   accept: 'application/json',
 };
 
