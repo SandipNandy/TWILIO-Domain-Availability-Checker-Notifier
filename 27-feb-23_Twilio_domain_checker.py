@@ -30,6 +30,7 @@ api_secret = "QdV9FjZjKvxXmVFqfLJEMk"
 
 req_headers = {
     "Authorization": f"sso-key {api_key}:{api_secret}",
+    
     "accept": "application/json"
 }
 
