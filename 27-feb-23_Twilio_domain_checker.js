@@ -49,7 +49,6 @@ const getUrl = domain => `https://api.ote-godaddy.com/v1/domains/available?domai
 async function checkDomainAvailability(domain, to_number) {
   console.log(`Checking availability of domain ${domain}`);
   const res = await axios.get(getUrl(domain), { headers });
-
   if (res.status != 200) {
     console.log(`Error getting state of Domain ${domain}`);
     return;
