@@ -1,7 +1,6 @@
 /**
  *
  * Author :- Sandip Nandi
- *
  * Creation Date :- 27-Feb-23
  * Address :- Bangalore, Karnataka   
  * Twilio Domain Availability Checker Notifier.
