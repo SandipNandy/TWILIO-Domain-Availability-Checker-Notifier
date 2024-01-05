@@ -7,7 +7,6 @@
 import argparse
 import time
 import requests
-
 import schedule
 
 from twilio.rest import Client 
