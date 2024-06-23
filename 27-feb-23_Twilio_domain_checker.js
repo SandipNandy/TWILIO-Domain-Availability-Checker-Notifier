@@ -43,6 +43,7 @@ const headers = {
 };
 
 function sendMessage(domain, number) {
+  
   const domain_purchase_url = `https://de.godaddy.com/domainsearch/find?domainToCheck=${domain}`;
   client.messages.create({
     from: 'whatsapp:+14155238886',
