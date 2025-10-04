@@ -8,7 +8,6 @@
  **/
 // npm install twilio argparse axios
 const twilio = require('twilio');
-
 const axios = require('axios').default;
 
 const { ArgumentParser } = require('argparse');
@@ -74,3 +73,4 @@ async function checkDomainAvailability(domain, to_number) {
 checkDomainAvailability(domain, whatsappNumber);
 
 // twilio domain checker.
+
