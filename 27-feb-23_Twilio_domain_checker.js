@@ -11,6 +11,7 @@
 const twilio = require('twilio');
 
 const axios = require('axios').default;
+
 const { ArgumentParser } = require('argparse');
 const parser = new ArgumentParser({ description: 'Check domain for availability' });
 
@@ -72,6 +73,7 @@ async function checkDomainAvailability(domain, to_number) {
 checkDomainAvailability(domain, whatsappNumber);
 
 // twilio domain checker.
+
 
 
 
