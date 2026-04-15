@@ -20,7 +20,6 @@ client.messages.create({
   body: 'Your Twilio code is 123832', 
   
   to: 'whatsapp:+49151828855'
-  
 }).then(msg => console.log(msg.sid));
 
 //   twilio message send.
