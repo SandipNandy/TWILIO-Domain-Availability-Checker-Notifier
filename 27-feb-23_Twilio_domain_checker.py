@@ -26,7 +26,6 @@ req_headers = {
     "Authorization": f"sso-key {api_key}:{api_secret}",
     "accept": "application/json"
 }
-
 # twilio API credentials
 account_sid = 'ACc40eb1c0368aca104f3f07a3ddb223dd' 
 auth_token = '464dac8466082d9e85d2307aef1d62b1' 
